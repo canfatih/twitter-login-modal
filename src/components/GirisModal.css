@@ -1,0 +1,117 @@
+.giris-modal{
+   
+}
+.button-close-modal{
+    background-color: white;
+    border: 0px;
+    padding: 15px;
+    
+    
+}
+.button-close-modal:hover{
+    background-color: rgb(163, 156, 156);
+    border-radius: 50px;
+    
+}
+.header-modal{
+    display: flex;
+   
+    align-items: center;
+    text-align: center;
+    
+}
+.header-icon-modal{
+    color: rgb(29, 155, 240);
+    margin-left: 40%;
+}
+.modal-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.buttons-giris-modal{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+ column-gap: 1vh;
+    background-color: white;
+    height: 5vh;
+    border: 2px solid rgb(189, 179, 179);
+    border-radius: 30vh;
+}
+.buttons-giris-modal:hover{
+    cursor: pointer;
+}
+.giris-modal-veya{
+    width: 60%;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+.giris-modal-veya-span{
+    position: relative;
+    top: 10px;
+    background-color: white;
+    padding: 0 15px;
+    font-size: 2vh;
+}
+.giris-modal-input{
+    width: 60%;
+    height: 6vh;
+    border: 2px solid rgb(189, 179, 179);
+    border-radius: 0.5vh;
+}
+.buttons-giris-modal-black{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+ column-gap: 1vh;
+    background-color: white;
+    height: 4.5vh;
+    border: 2px solid rgb(189, 179, 179);
+    border-radius: 30vh;
+    background-color: black;
+    color: white;
+}
+.button-giris-modal-white{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+ column-gap: 1vh;
+    background-color: white;
+    height: 4.5vh;
+    border: 2px solid rgb(189, 179, 179);
+    border-radius: 30vh;
+    background-color: white;
+    color: black;
+}
+.modal-giris-footer{
+    margin-top: 3vh;
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15vh;
+}
+.giris-modal-footer-span{
+    font-size: 1.8vh;
+    color: rgb(99, 97, 97);
+}
+.giris-modal-footer-a{
+    text-decoration: none;
+    color: rgb(29, 155, 240);
+    margin-left: 5px;
+}
+.giris-modal-footer-a:hover{
+    color: rgb(29, 155, 240);
+    text-decoration: underline;
+}
+
